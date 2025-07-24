@@ -1,11 +1,11 @@
-# 🧬 MetaboRAG: An AI Engine for Metabolomic Result Interpretation
+# ⚗️ MetaboRAG: An AI Engine for Metabolomic Result Interpretation
 
 ## 🔍 What It Does
 **MetaboRAG** is a prototype system that helps scientists interpret complex metabolomics data using **AI and curated biochemical knowledge**.
 
 It connects changes in small molecules (metabolites) to **biological pathways**, **enzyme activities**, and possible **disease mechanisms** — by combining structured knowledge from public databases (like KEGG) with a powerful **large language model (LLM)**.
 
-MetaboRAG can be thought of as an AI-driven metabolic pathway reasoning engine, designed to provide interpretable, context-rich, and biologically meaningful insights from metabolite expression data, grounded in the latest biochemical knowledge.
+MetaboRAG can be thought of as an AI-driven metabolic pathway reasoning engine, designed to provide interpretable, context-rich, and biologically meaningful insights from metabolite expression data.
 
 At its core, MetaboRAG uses a technique called **Retrieval-Augmented Generation (RAG)**:
 - 🗃️ It retrieves relevant reactions and pathways from trusted molecular databases and curated knowledge bases.
