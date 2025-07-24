@@ -43,7 +43,7 @@ The vision behind MetaboRAG is to combine trusted biochemical databases, control
 ## 🚀 What's Next
 Planned developments include:
 - A real-time web app with upload support for metabolomics data.
-- Clinical modules focusing on applications like sepsis and cancer metabolism.
+- Context-sensitive interpretation of metabolic patterns across diverse settings, including sports physiology and clinical applications.
 - Integration with analytical information such as from LC-MS and NMR settings.
 - Continuous incorporation of relevant literature via PubMed.
 
