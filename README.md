@@ -27,6 +27,7 @@ At its core, MetaboRAG uses a technique called **Retrieval-Augmented Generation 
 MetaboRAG enables:
 - the establishment and inference of mechanistic pathway models directly from experimental data, and
 - the evaluation of existing hypotheses against up-to-date scientific literature and curated biochemical knowledge.
+
 This dual approach helps both discover new pathway insights and validate current models to ensure biological relevance as knowledge advances.
 
 ## 🧪 What Makes It Different
